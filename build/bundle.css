@@ -1,19 +1,12 @@
-html, body {
-	position: relative;
-	width: 100%;
-	height: 100%;
-}
-
-
 main.svelte-xzx6c9.svelte-xzx6c9.svelte-xzx6c9 {
   padding: 1em;
   max-width: 500px;
   margin: 0 auto
 }
 
-section.svelte-xzx6c9.svelte-xzx6c9.svelte-xzx6c9 {
+/* section.svelte-xzx6c9.svelte-xzx6c9.svelte-xzx6c9 {
   height: 100vh
-}
+} */
 
 .outro.svelte-xzx6c9.svelte-xzx6c9.svelte-xzx6c9 {
   margin-top: 5em;
