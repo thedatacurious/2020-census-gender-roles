@@ -29,7 +29,7 @@ a:visited {
 .col-medium {
 	background-color: rgba(255,248,231,0.8);
 	width: 100%;
-	padding: 0 24px;
+	padding: 0 auto;
 }
 
 .em {
